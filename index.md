@@ -8,14 +8,14 @@ Science programme. This ePortfolio will expand as I progress through the program
 # M1:LCS
 
 This section contains content built up as part of the Launching into Computer Science module.
-[Link to another page](./lcs.html).
+[Click here to access the full details, relevant repositories and final reflection](./lcs.html).
 
 # M2:OOP
 
 This section contains content built up as part of the Object Oriented Programming module.
-[Link to another page](./oop.html).
+[Click here to access the full details, relevant repositories and final reflections](./oop.html).
 
 # M3:NS
 
 This section contains content built up as part of the Network Security module.
-[Link to another page](./ns.html).
+[Click here to access the full details, relevant repositories and final reflections](./ns.html).
