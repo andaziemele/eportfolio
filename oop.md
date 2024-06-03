@@ -8,12 +8,15 @@ layout: default
 
 In this Object-Oriented Programming module, I have strengthened my knowledge and hands-on experience in developing programs using Python, 
 focusing on the core principles of object-oriented design such as abstraction, encapsulation, inheritance, and polymorphism. \
-The course emphasises the use of the Unified Modelling Language (UML) to support the design process, enabling students to create comprehensive UML models. 
+The course emphasised the use of the Unified Modelling Language (UML) to support the design process, enabling students to create a range of UML models. 
 Additionally, I have gained experience in applying various data structures to efficiently store and manage data, 
 as well as implementing simple search algorithms to process this data effectively. \
-The module also covers the importance of design patterns in organising code, ensuring that students can create well-structured and maintainable software systems. 
+The module also covered the importance of design patterns in organising code, ensuring that students could create well-structured and maintainable software systems. 
 By the end of the course, I will be proficient in developing object-oriented programs, preparing UML models, and utilising data structures and design patterns in my projects. \
-**Module repository**: [Link](https://github.com/andaziemele/oop_module/tree/main).
+
+
+## Module GitHub Repository
+The following GitHub repository contains all module artefacts: [Link](https://github.com/andaziemele/oop_module/tree/main).
 
 
 ## Units

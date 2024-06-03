@@ -2,6 +2,8 @@
 layout: default
 ---
 
-# M1:LCS
+# Module 1: Launching into Computer Science
+
+No publicly available content yet. Check back soon.
 
 [Return to main page](./)
