@@ -29,7 +29,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 #### Unit 2
 **Object-Oriented Analysis - Initial Steps towards Programming in Python**
 
-**Artefacts produced:** Codio exercises and Peer Feedback and my Peer Responses for Collaborative Discussion 1 \
+**Artefacts produced:** Codio exercises, and Peer Feedback, my Peer Responses for Collaborative Discussion 1 \
 **Link:** [Unit 2 Directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_2)
 
 #### Unit 3
@@ -53,7 +53,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 #### Unit 6
 **Abstract Methods and Interfaces**
 
-**Artefacts produced:** e-Portfolio activities \
+**Artefacts produced:** Codio and Seminar/e-Portfolio activities \
 **Link:** [Unit 6 Directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_6)
 
 #### Unit 7
