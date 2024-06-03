@@ -26,3 +26,5 @@ layout: default
 
 # Hobbies and Interests
 Photography, Fashion, Music, Cycling
+
+[Return to main page](./)

@@ -15,19 +15,19 @@ By the end of the course, I will be proficient in developing object-oriented pro
 
 
 ## Units
-### Unit 1
+#### Unit 1
 **An Introduction to Python Programming and the OO Programming Paradigm**
 
 Artefacts produced: Codio and e-Portfolio activities, Initial Post for Collaborative Discussion 1 \
 Link: [Unit 1 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_1)
 
-### Unit 2
+#### Unit 2
 **Object-Oriented Analysis - Initial Steps towards Programming in Python**
 
 Artefacts produced: Codio exercises and Peer Feedback and my Peer Responses for Collaborative Discussion 1 \
 Link: [Unit 2 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_2)
 
-### Unit 3
+#### Unit 3
 **Universal Modelling Language (UML)**
 
 Artefacts produced: e-Portfolio activities, Summary Post for Collaborative Discussion 1 \
