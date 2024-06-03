@@ -5,73 +5,84 @@ layout: default
 # Module 2: Object-Oriented Programming
 
 In this Object-Oriented Programming module, I have strengthened my knowledge and hands-on experience in developing programs using Python, 
-focusing on the core principles of object-oriented design such as abstraction, encapsulation, inheritance, and polymorphism. 
+focusing on the core principles of object-oriented design such as abstraction, encapsulation, inheritance, and polymorphism. \
 The course emphasises the use of the Unified Modelling Language (UML) to support the design process, enabling students to create comprehensive UML models. 
 Additionally, I have gained experience in applying various data structures to efficiently store and manage data, 
-as well as implementing simple search algorithms to process this data effectively. 
+as well as implementing simple search algorithms to process this data effectively. \
 The module also covers the importance of design patterns in organising code, ensuring that students can create well-structured and maintainable software systems. 
-By the end of the course, I will be proficient in developing object-oriented programs, preparing UML models, and utilising data structures and design patterns in my projects.
-
-Module repository: [link](https://github.com/andaziemele/oop_module/tree/main).
+By the end of the course, I will be proficient in developing object-oriented programs, preparing UML models, and utilising data structures and design patterns in my projects. \
+**Module repository**: [Link](https://github.com/andaziemele/oop_module/tree/main).
 
 
 ## Units
-### Unit 1: An Introduction to Python Programming and the OO Programming Paradigm
+### Unit 1
+**An Introduction to Python Programming and the OO Programming Paradigm**
 
-Artefacts produced: Codio and e-Portfolio activities, Initial Post for Collaborative Discussion 1
+Artefacts produced: Codio and e-Portfolio activities, Initial Post for Collaborative Discussion 1 \
 Link: [Unit 1 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_1)
 
-### Unit 2: Object-Oriented Analysis - Initial Steps towards Programming in Python
+### Unit 2
+**Object-Oriented Analysis - Initial Steps towards Programming in Python**
 
-Artefacts produced: Codio exercises and Peer Feedback and my Peer Responses for Collaborative Discussion 1
+Artefacts produced: Codio exercises and Peer Feedback and my Peer Responses for Collaborative Discussion 1 \
 Link: [Unit 2 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_2)
 
-### Unit 3: UML
+### Unit 3
+**Universal Modelling Language (UML)**
 
-Artefacts produced: e-Portfolio activities, Summary Post for Collaborative Discussion 1
+Artefacts produced: e-Portfolio activities, Summary Post for Collaborative Discussion 1 \
 Link: [Unit 3 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_3)
 
-### Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
+### Unit 4
+**Applying a UML Model to a Program Implementation: UML in Practice**
 
-Artefacts produced: Seminar activities, including a Python Class script
+Artefacts produced: Seminar activities, including a Python Class script \
 Link: [Unit 4 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_4)
 
-### Unit 5: More on Classes
+### Unit 5
+**More on Classes**
 
-Artefacts produced: e-Portfolio activities
+Artefacts produced: e-Portfolio activities \
 Link: [Unit 5 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_5)
 
-### Unit 6: Abstract Methods and Interfaces
+### Unit 6
+**Abstract Methods and Interfaces**
 
-Artefacts produced: e-Portfolio activities
+Artefacts produced: e-Portfolio activities \
 Link: [Unit 6 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_6)
 
-### Unit 7: Debugging / Error Handling, Data Structures and Data Search
+### Unit 7
+**Debugging / Error Handling, Data Structures and Data Search**
 
-Artefacts produced: ePortfolio activities and submission of Assignment 1: Driverless Car System Design
+Artefacts produced: ePortfolio activities and submission of Assignment 1: Driverless Car System Design \
 Link: [Unit 7 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_7)
 
-### Unit 8: Data Structures and Data Search in Practice
+### Unit 8
+**Data Structures and Data Search in Practice**
 
-Artefacts produced: Codio exercises and Initial Post for Collaborative Discussion 2
+Artefacts produced: Codio exercises and Initial Post for Collaborative Discussion 2 \
 Link: [Unit 8 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_8)
 
-### Unit 9: Packaging and Testing
+### Unit 9
+**Packaging and Testing**
 
-Artefacts produced: e-Portfolio activities and my Peer Responses for Collaborative Discussion 2
+Artefacts produced: e-Portfolio activities and my Peer Responses for Collaborative Discussion 2 \
 Link: [Unit 9 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_9)
 
-### Unit 10: Testing Code in Practice
+### Unit 10
+**Testing Code in Practice**
 
-Artefacts produced: Summary Post for Collaborative Discussion 2
+Artefacts produced: Summary Post for Collaborative Discussion 2 \
 Link: [Unit 10 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_10)
 
-### Unit 11: Pointers, References & Memory, and Design Patterns
+### Unit 11
+**Pointers, References & Memory, and Design Patterns**
 
-Artefacts produced: Submission of Assignment 2: Driverless Car Design Implementation using Python
+Artefacts produced: Submission of Assignment 2: Driverless Car Design Implementation using Python \
 Link: [Unit 11 directory](https://github.com/andaziemele/oop_module/tree/main/src/Unit_11)
 
-### Unit 12: Working with Design Patterns to Structure Code
+### Unit 12
+**Working with Design Patterns to Structure Code**
 
 Artefacts produced: Final reflection of the overall experience on the module
 Link: Unit 12 directory
