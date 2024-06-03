@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: Anda Ziemele's ePortfolio
-description: This is the GitHub page of my MSc Computer Science e-Portfolio.
+title: Anda Ziemele's e-Portfolio
+description: This is the GitHub page of the e-Portfolio for MSc Computer Science.

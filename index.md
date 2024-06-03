@@ -13,7 +13,7 @@ She is passionate about data science and analytics, and her motivation for her s
 
 # About This Page
 
-This is the central location of all the artefacts produced during the course, including feedback from my peers and tutors. 
+This is the central location of all the artefacts produced during the course, including feedback from peers and tutors. 
 You will find: 
 1. A summary and learning outcomes of the modules
 2. List of units per module
