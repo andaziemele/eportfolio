@@ -16,3 +16,11 @@ A separate repository containing all artefacts for this module can be found here
 
 There is currently no public repository for this module. 
 
+# Module 4: Information Security
+
+There is currently no public repository for this module. 
+
+# Module 4: Software Engineering Project Management
+
+A separate repository containing all artefacts for this module can be found here: [SEPM Module GitHub Repository](https://github.com/andaziemele/sepm_module).
+
