@@ -84,13 +84,11 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 **Software Engineering Project Management: Future Trends**
 
 **Artefacts produced:** Submission of Assignment 2: Project Delivery Presentation \
-**Link:** Unit 11 Directory)
 
 #### Unit 12
 **The Case for the Future Direction of Software Engineering Project Management**
 
 **Artefacts produced:** Final reflection of the overall experience on the module \
-**Link:** Unit 12 Directory
 
 ## Assignments
 
