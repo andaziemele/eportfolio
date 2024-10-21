@@ -37,3 +37,15 @@ This section contains content created through Module 2: Object-Oriented Programm
 
 This section is currently empty, but will contain created as part of the Network Security module.
 [Click here to access the placeholder](./ns.html).
+
+
+# Module 4: Information Security
+
+This section is currently empty, but will contain created as part of the Network Security module.
+[Click here to access the placeholder](./ns.html).
+
+
+# Module 5: Software Engineering Project Management
+
+This section contains content created through Module 5: Software Engineering Project Management.
+[Click here to access the placeholder](./sepm.html).
