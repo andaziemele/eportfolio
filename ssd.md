@@ -13,7 +13,7 @@ bandit and cryptography, which were used to create a secure shell app, and deepe
 such as the Model-View-Controller pattern. \
 Discussion and forum activities on vulnerability analysis, risk management and secure architectures
 broadened my understanding of the field, and made me appreciate the need to ensure security is inherent in all development practices.
-The overall assignment challenged me in new ways - I had the opportunity to consider all aspects of Python programming I have learned so far - OOP techniques, application design, and secure code, testing and code quality. It was an excellent opportunity to round off the current course experience.\
+The overall assignment challenged me in new ways - I had the opportunity to consider all aspects of Python programming I have learned so far - OOP techniques, application design, and secure code, testing and code quality. It was an excellent opportunity to round off the current course experience.
 
 
 ## Module GitHub Repository
@@ -106,7 +106,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 **Artefacts produced:** 
 - Forum post on advantages/disadvantages of microkernels/microservices: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/Unit_11/forum_post_microkernels.pdf)
-- Submission of Assignment 2: eCommerce CLI app
+- Submission of Assignment 2 - eCommerce CLI app: [Link](https://github.com/andaziemele/ssd_module/tree/main/src/eCommerce_application)
 
 #### Unit 12
 **The Great Tanenbaum-Torvalds Debate Revisited**
