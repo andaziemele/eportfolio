@@ -6,11 +6,13 @@ layout: default
 
 ## Module Overview and Learning Outcomes
 
-In the Secure Software Development (SSD) module, I developed my existing skills in Object-Oriented Programming and general knowledge in \
-computer science, software engineering in the context of software security. I gained new skills in working with libraries such Flask, \
-bandit and cryptography, which were used to create a secure shell app, and deeper knowledge in software design, particularly design patters \
-such as the Model-View-Controller pattern. Discussion and forum activities on vulnerability analysis, risk management and secure architectures \
-broadened my understanding of the field, and made me appreciate the need to ensure security is inherent in all development practices. \
+In the Secure Software Development (SSD) module, I developed my existing skills in Object-Oriented Programming and general knowledge in 
+computer science, software engineering in the context of software security. \
+I gained new skills in working with libraries such Flask, 
+bandit and cryptography, which were used to create a secure shell app, and deeper knowledge in software design, particularly design patters 
+such as the Model-View-Controller pattern. \
+Discussion and forum activities on vulnerability analysis, risk management and secure architectures
+broadened my understanding of the field, and made me appreciate the need to ensure security is inherent in all development practices.
 
 
 ## Module GitHub Repository
@@ -113,23 +115,19 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 ## Assignments
 
-#### Assignment 1: Project Report for a Computer Systems Design Project
+#### Assignment 1: Development Team Project: Design Document of a secure eCommerce CLI application
 **Assignment overview:** \
-You are provided with a transcript between two (hypothetical) characters. You are required to analyse the transcript and 
-extract the initial requirements of both stakeholders and critique them with respect to assumptions and gaps in what is provided. \
-You (your group) are required to produce a proposal that details a suitable development methodology (e.g. waterfall or agile based) 
-for the system under consideration, supported by a discussion that justifies the choice of methodology. 
-You should also produce a set of requirements (derived from the supplied discussion transcript), 
-a development plan with suitable milestones, proposed deliverables and an estimated cost of the system 
-(based on the supplied BOMs and the miscellaneous information provided below). \
+Your team is expected to create a system design, describing how you will meet the requirements, and prepare this as a design document.\
+In your document, you should detail the system requirements and assumptions influencing the design. You should identify the security challenges that the system has been designed to protect against.\
+You should produce a minimum of two different UML designs which illustrate different views of the system, one of which should be a misuse case diagram (Pauli & Xu, 2005).\
+You should also state the tools and libraries which you will use in your solution. You should describe how you are applying a solo developer (Pagotto et al., 2016) (Moyo & Mnkandla, 2020) approach to manage the project. \
 
-#### Assignment 2: Presentation for a Computer Systems Design Project
+#### Assignment 2: Development Individual Project: Coding Output and Evidence of Testing
 **Assignment overview:** \
-Carrying on from the Full Brief, this assignment focuses on the second deliverable, a presentation of your response to the project challenges.
-This submission should consist of a presentation to the major stakeholders that consists of a status/progress update and a 
-plan and budget showing what changes are required to mitigate the challenges mentioned above, and 
-how these will impact progress from design through to implementation and ultimately UAT. You should assume (as per your original plan) 
-that a number of devices have already been produced. \
+Carrying on from the Full Brief provided in Unit 6, this assignment focuses on the second deliverable, a practical development of your design from Unit 6.\
+The code should be developed using Python within any IDE. You should submit a fully tested code set. Code should be organised and documented according to Python’s PEP-8 style guide (van Rossum, 2001).\
+You should supply evidence of execution, demonstrating how the various aspects of the system work. Your code should also be tested and the evidence of this provided.\
+Testing should be supported using unit tests which you have written, in addition to the use of linters. You should submit a README file that documents how the application can be run.\
 
 
 [Return to main page](./)

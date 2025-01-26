@@ -24,3 +24,7 @@ There is currently no public repository for this module.
 
 A separate repository containing all artefacts for this module can be found here: [SEPM Module GitHub Repository](https://github.com/andaziemele/sepm_module).
 
+# Module 6: Secure Software Development
+
+A separate repository containing all artefacts for this module can be found here: [SSD Module GitHub Repository](https://github.com/andaziemele/ssd_module).
+
