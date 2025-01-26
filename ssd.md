@@ -106,7 +106,8 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 **Artefacts produced:** 
 - Forum post on advantages/disadvantages of microkernels/microservices: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/Unit_11/forum_post_microkernels.pdf)
-- Submission of Assignment 2 - eCommerce CLI app: [Link](https://github.com/andaziemele/ssd_module/tree/main/src/eCommerce_application)
+- Submission of Assignment 2 - eCommerce CLI app: [Link](https://github.com/andaziemele/ssd_module/tree/main/src/eCommerce_application) \
+**Link:** [Unit 11 Directory](https://github.com/andaziemele/ssd_module/tree/main/src/Unit_11)
 
 #### Unit 12
 **The Great Tanenbaum-Torvalds Debate Revisited**
