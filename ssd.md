@@ -9,10 +9,11 @@ layout: default
 In the Secure Software Development (SSD) module, I developed my existing skills in Object-Oriented Programming and general knowledge in 
 computer science, software engineering in the context of software security. \
 I gained new skills in working with libraries such Flask, 
-bandit and cryptography, which were used to create a secure shell app, and deeper knowledge in software design, particularly design patters 
+bandit and cryptography, which were used to create a secure shell app, and deeper knowledge in software design, particularly design patterns 
 such as the Model-View-Controller pattern. \
 Discussion and forum activities on vulnerability analysis, risk management and secure architectures
 broadened my understanding of the field, and made me appreciate the need to ensure security is inherent in all development practices.
+The overall assignment challenged me in new ways - I had the opportunity to consider all aspects of Python programming I have learned so far - OOP techniques, application design, and secure code, testing and code quality. It was an excellent opportunity to round off the current course experience.\
 
 
 ## Module GitHub Repository
