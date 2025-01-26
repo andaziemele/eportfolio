@@ -49,3 +49,9 @@ This section is currently empty, but will contain created as part of the Network
 
 This section contains content created through Module 5: Software Engineering Project Management.
 [Click here to access the placeholder](./sepm.html).
+
+
+# Module 6: Secure Software Development
+
+This section contains content created through Module 6: Secure Software Development.
+[Click here to access the placeholder](./ssd.html).
