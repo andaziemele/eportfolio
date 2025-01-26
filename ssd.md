@@ -81,7 +81,8 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 **Artefacts produced:**
 - Initial Post for Collaborative Discussion 2 - ontology of TrueCrypt vulnerabilities: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/Unit_8/collab_disc_2_initial_post.pdf)
-- Code of ROT13 encryption algorithm: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/Unit_8/crypto_algo.py) \
+- Code of ROT13 encryption algorithm: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/Unit_8/crypto_algo.py)
+- Use of ROT13 and GDPR - questions and answers: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/Unit_8/rot13_use_gdpr.pdf) \
 **Link:** [Unit 8 Directory](https://github.com/andaziemele/ssd_module/tree/main/src/Unit_8)
 
 #### Unit 9
