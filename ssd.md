@@ -67,7 +67,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 **Using Linters to Support Python Testing**
 
 **Artefacts produced:** 
-- No artefacts produced in this Unit. 
+- No artefacts produced in this Unit, apart from Assignment 1 submission.
 
 #### Unit 7
 **Introduction to Operating Systems**
@@ -124,6 +124,11 @@ Your team is expected to create a system design, describing how you will meet th
 In your document, you should detail the system requirements and assumptions influencing the design. You should identify the security challenges that the system has been designed to protect against.\
 You should produce a minimum of two different UML designs which illustrate different views of the system, one of which should be a misuse case diagram (Pauli & Xu, 2005).\
 You should also state the tools and libraries which you will use in your solution. You should describe how you are applying a solo developer (Pagotto et al., 2016) (Moyo & Mnkandla, 2020) approach to manage the project.
+**Link(s) to produced artefact(s):** \
+- Meeting #1 recording: [Link](https://youtu.be/5opSY1JQdYs)
+- Meeting #2 recording: [Link](https://youtu.be/UmlXR5dzWPo)
+- Meeting #3 recording: [Link](https://youtu.be/QFd9rZu24HA)
+- Screenshot of Trello board: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/Unit_6/trello_board.png) \
 
 #### Assignment 2: Development Individual Project: Coding Output and Evidence of Testing
 **Assignment overview:** \
@@ -131,6 +136,12 @@ Carrying on from the Full Brief provided in Unit 6, this assignment focuses on t
 The code should be developed using Python within any IDE. You should submit a fully tested code set. Code should be organised and documented according to Python’s PEP-8 style guide (van Rossum, 2001).\
 You should supply evidence of execution, demonstrating how the various aspects of the system work. Your code should also be tested and the evidence of this provided.\
 Testing should be supported using unit tests which you have written, in addition to the use of linters. You should submit a README file that documents how the application can be run.
+**Link(s) to produced artefact(s):** \
+- Code to eCommerce CLI app: [Link](https://github.com/andaziemele/ssd_module/tree/main/src/eCommerce_application) \
 
+## Skills Matrix and Professional Development Plan
+**Links**: 
+- Skills Matrix: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/other_Artefacts/skills_matrix_ssd.pdf)
+- Personal Development Plan: [Link](https://github.com/andaziemele/ssd_module/blob/main/src/other_Artefacts/pdp_ssd.pdf) \
 
 [Return to main page](./)
