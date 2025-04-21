@@ -28,3 +28,6 @@ A separate repository containing all artefacts for this module can be found here
 
 A separate repository containing all artefacts for this module can be found here: [SSD Module GitHub Repository](https://github.com/andaziemele/ssd_module).
 
+# Module 7: Research Methods and Professional Practice
+
+A separate repository containing all artefacts for this module can be found here: [RMPP Module GitHub Repository](https://github.com/andaziemele/rmpp_module).
