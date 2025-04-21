@@ -30,7 +30,7 @@ This section is currently empty, but is serving as a placeholder for artefacts c
 # Module 2: Object-Oriented Programming (OOP)
 
 This section contains content created through Module 2: Object-Oriented Programming.
-[Click here to access the full unit details, relevant repositories and assignment details](./oop.html). 
+[Click here to access the full module overview, relevant repositories and access to produced artefacts](./oop.html). 
 
 
 # Module 3: Network Security
@@ -48,16 +48,16 @@ This section is currently empty, but will contain created as part of the Network
 # Module 5: Software Engineering Project Management
 
 This section contains content created through Module 5: Software Engineering Project Management.
-[Click here to access the placeholder](./sepm.html).
+[Click here to access the full module overview, relevant repositories and access to produced artefacts](./sepm.html).
 
 
 # Module 6: Secure Software Development
 
 This section contains content created through Module 6: Secure Software Development.
-[Click here to access the placeholder](./ssd.html).
+[Click here to access the full module overview, relevant repositories and access to produced artefacts](./ssd.html).
 
 
 # Module 7: Research Methods and Professional Practice
 
 This section contains content created through Module 7: Research Methods and Professional Practice.
-[Click here to access the placeholder](./rmpp.html).
+[Click here to access the full module overview, relevant repositories and access to produced artefacts](./rmpp.html).
