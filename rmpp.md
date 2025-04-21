@@ -21,6 +21,8 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 #### Unit 1
 **Introduction to Research Methods. The Scientific Investigation and Ethics in Computing**
 
+
+
 **Artefacts produced:** 
 - Initial Post for Collaborative Discussion 1 - Codes of Ethics and Professional Conduct: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_1/collab_disc_1_initial_post.pdf)
 - e-Portfolio Activity: Reflective Activity 1 – Ethics in Computing in the age of Generative AI [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_1/eportfolio_reflective_generative_ai_ethics.pdf) \
@@ -88,8 +90,22 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 **Artefacts produced:** 
 - Summary Post for Collaborative Discussion 2 - Case Study: Accuracy of information: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_9/collab_disc_2_summary_post.pdf)
+- Histogram exercise answers: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_9/Histograms_statistical_worksheets/Unit_9_Histograms_all_exercises_answers.pdf)
+- Directory of Histogram statistical worksheets: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_9/Histograms_statistical_worksheets)
 - Given macOS operating system does not support PowerBI, it was not possible to complete the data visualisation practice exercises, however, I have hands-on experience in PowerBI via my professional experience. \
 **Unit Repository Link:** [Unit 9 Directory](https://github.com/andaziemele/rmpp_module/tree/main/Unit_9)
+
+#### Reflection on the statistical worksheets e-Portfolio activity
+Completing statistical worksheet exercises in Excel offered a perspective I was not accustomed to on the accessibility of statistical testing for a broader audience. \
+I gained a genuine appreciation for how Excel democratises statistical analysis, enabling individuals without programming backgrounds to perform f-tests, t-tests, and other statistical procedures with relative ease. \
+This accessibility is particularly valuable in settings where rapid, straightforward analyses are needed and where technical resources may be limited. \
+However, as an MSc Computer Science student and practising data science consultant, I found limited personal value in conducting statistical testing within Excel, given my extensive experience with the Python programming language. \
+Python does not only streamline such analyses, but also supports the analysis of big data, which is often necessary when doing data mining. \
+My experience was further tempered by frustration with Excel's constrained data visualisation capabilities, which, especially for histograms, required unusual workarounds, but when using languages such as Python or R, require one line of code. \
+Additionally, as briefly touched upon already, I have concerns about the real-world applicability of Excel-based statistical analysis and visualisation, considering the large data volumes typical to industry and Excel's limit to 1,048,576 rows. \
+Excel's performance limitations and lack of scalability often make it impractical for handling the types of datasets I routinely encounter and also expect to encounter for my thesis. \
+While the exercises reinforced foundational concepts in statistics and data visualisation, they also highlighted the importance of selecting tools that align with both the scale and sophistication of data science challenges. \
+
 
 #### Unit 10
 **Research Writing**
@@ -103,9 +119,9 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 **Going Forward: Professional Development and Your e-Portfolio**
 
 **Artefacts produced:** 
-- Professional Skills Matrix: [Link](https://github.com/andaziemele/rmpp_module/tree/main/)
-- Action Plan: [Link](https://github.com/andaziemele/rmpp_module/tree/main/)
-- SWOT Analysis: [Link]() \
+- Professional Skills Matrix: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/skills_matrix.pdf)
+- Development Action Plan: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/pdp.pdf)
+- SWOT Analysis: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/swot_analysis.pdf) \
 **Unit Repository Link:** [Unit 11 Directory](https://github.com/andaziemele/rmpp_module/tree/main/Unit_11)
 
 #### Unit 12
@@ -120,18 +136,33 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Assignment 1: Literature Review
 **Assignment reflection:** 
-\
+I selected the topic of Implementing Machine Learning techniques in Customer Profiling for my literature review. \
+Reflecting on the process of writing it, I selected the topic based on the relevancy to my professional experience as a data science consultant. \
+In my work, I frequently apply machine learning techniques to segment customers and predict behaviors, but the literature review allowed me to step back and critically examine the broader academic landscape. \
+This exercise enhanced my understanding of both established and emerging methodologies, and highlighted the nuances and limitations that are often glossed over in practical applications. \
+Engaging with peer-reviewed research also exposed me to innovative approaches that I could potentially integrate into my own projects, bridging the gap between theory and practice. \
+I also noted the lack of research coming from non-academics and the limited datasets available for researchers is concerning, however some strides have been made by researchers of eCommerce retailers such as jd.com. \
+Transitioning from primarily programming-focused assignments to this assignment was initially challenging, as I struggled to narrow the focus of my research and I found myself lost in the amount of literature. \
+However, achieving a distinction on the assignment was a gratifying validation of my efforts, and the feedback I received on improving the structure of my outputs was helpful in my future assignments. \
+This assignment has not only improved my academic writing skills, but I also intend to take a literature review-based approach in my professional role. \
 
 
 #### Assignment 2: Research Proposal Presentation
 **Assignment reflection:** 
-\
+Crafting a research proposal presentation on a topic of my own choosing, here on graph-based sentiment analysis with applications in marketing, presented an opportunity to further align my academic pursuits with my current profession. \
+Initially, narrowing the scope of the topic proved difficult, as my exposure to diverse client projects had familiarised me with numerous applications of sentiment analysis. \
+By iteratively mapping practical marketing challenges to graph theory's ability to model relational data, I identified a focused niche: analysing sentiment propagation patterns during brand advertising crises. \
+The earlier literature review assignment provided me with the necessary skills to quickly arrive to a potential gap in the research, \ 
+whilst material covered in the module, especially in Units 3, 6 and 7 on research methods and statistical testing helped with arriving to a fully-fleshed proposal with a timeline of activities. \
+The distinction I achieved highlighted the value of integrating professional pragmatism with academic rigor, but feedback revealed some shortcomings in presentation delivery. \
+Accustomed to client meetings emphasising technical brevity, I had underestimated the need for deliberate pacing and vocal modulation to sustain audience engagement in academic settings too. \
+Overall, this assignment highlighted how academic reflection can refine professional practice, turning technical expertise into impactful storytelling. \
 
 
 ## Professional Skills Matrix, SWOT Analysis and Action Plan
 **Links**: 
-- Professional Skills Matrix: [Link]()
-- SWOT Analysis: [Link]()
-- Personal Development Plan: [Link]() 
+- Professional Skills Matrix: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/skills_matrix.pdf)
+- SWOT Analysis: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/swot_analysis.pdf)
+- Development Action Plan: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/pdp.pdf) 
 
 [Return to main page](./)
