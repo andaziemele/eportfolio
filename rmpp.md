@@ -21,8 +21,6 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 #### Unit 1
 **Introduction to Research Methods. The Scientific Investigation and Ethics in Computing**
 
-
-
 **Artefacts produced:** 
 - Initial Post for Collaborative Discussion 1 - Codes of Ethics and Professional Conduct: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_1/collab_disc_1_initial_post.pdf)
 - e-Portfolio Activity: Reflective Activity 1 – Ethics in Computing in the age of Generative AI [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_1/eportfolio_reflective_generative_ai_ethics.pdf) \
@@ -104,7 +102,7 @@ Python does not only streamline such analyses, but also supports the analysis of
 My experience was further tempered by frustration with Excel's constrained data visualisation capabilities, which, especially for histograms, required unusual workarounds, but when using languages such as Python or R, require one line of code. \
 Additionally, as briefly touched upon already, I have concerns about the real-world applicability of Excel-based statistical analysis and visualisation, considering the large data volumes typical to industry and Excel's limit to 1,048,576 rows. \
 Excel's performance limitations and lack of scalability often make it impractical for handling the types of datasets I routinely encounter and also expect to encounter for my thesis. \
-While the exercises reinforced foundational concepts in statistics and data visualisation, they also highlighted the importance of selecting tools that align with both the scale and sophistication of data science challenges. \
+While the exercises reinforced foundational concepts in statistics and data visualisation, they also highlighted the importance of selecting tools that align with both the scale and sophistication of data science challenges. 
 
 
 #### Unit 10
@@ -144,7 +142,7 @@ Engaging with peer-reviewed research also exposed me to innovative approaches th
 I also noted the lack of research coming from non-academics and the limited datasets available for researchers is concerning, however some strides have been made by researchers of eCommerce retailers such as jd.com. \
 Transitioning from primarily programming-focused assignments to this assignment was initially challenging, as I struggled to narrow the focus of my research and I found myself lost in the amount of literature. \
 However, achieving a distinction on the assignment was a gratifying validation of my efforts, and the feedback I received on improving the structure of my outputs was helpful in my future assignments. \
-This assignment has not only improved my academic writing skills, but I also intend to take a literature review-based approach in my professional role. \
+This assignment has not only improved my academic writing skills, but I also intend to take a literature review-based approach in my professional role. 
 
 
 #### Assignment 2: Research Proposal Presentation
@@ -156,10 +154,27 @@ The earlier literature review assignment provided me with the necessary skills t
 whilst material covered in the module, especially in Units 3, 6 and 7 on research methods and statistical testing helped with arriving to a fully-fleshed proposal with a timeline of activities. \
 The distinction I achieved highlighted the value of integrating professional pragmatism with academic rigor, but feedback revealed some shortcomings in presentation delivery. \
 Accustomed to client meetings emphasising technical brevity, I had underestimated the need for deliberate pacing and vocal modulation to sustain audience engagement in academic settings too. \
-Overall, this assignment highlighted how academic reflection can refine professional practice, turning technical expertise into impactful storytelling. \
+Overall, this assignment highlighted how academic reflection can refine professional practice, turning technical expertise into impactful storytelling. 
 
 
 ## Professional Skills Matrix, SWOT Analysis and Action Plan
+**Reflection on the completed Skills Matrix, SWOT analysis and development plan:** 
+As a data science consultant and a graduate student in MSc Computer science, my professional skills matrix shows good grounding in technical areas such as:
+- Python and SQL programming languages for both software design and data analysis
+- Software design, including design patterns and use of Universal Modelling Language (UML)
+- Software engineering project management including time estimation techniques
+- Software quality and testing, and 
+- Penetration testing \
+... amongst other skills. These skills have enabled me to contribute effectively to client projects, ensuring that solutions are technically sound and secure. \
+However, my growing knowledge of research methods and ethics will support my ability to approach new problems systematically and responsibly. \
+Based on the SWOT analysis and action plan, I identified areas for improvement, particularly in advanced statistics, machine learning, and ethical data practices. \
+The above would prepare me for both my final thesis to conclude the programme, and also future-proofing my skills given rapid developments in data and AI. \
+I will address these by enrolling in relevant courses, applying new methods in my thesis and client work, and seeking feedback from mentors and stakeholders. \
+I will also continue working on my communication and leadership skills by participating in workshops, presenting to non-technical audiences, and engaging in thought leadership. \
+The impact of these efforts will be measured in my ability to handle more complex data science tasks, communicate findings more clearly to clients, and incorporate ethical considerations into my work. \
+I will have further expanded my professional network, equipped myself for taking up new career directions, and taken on more responsibility in team settings. \
+Overall, the combination of technical upskilling and soft skill development, a commitment made through this programme, will increase my effectiveness and value as a consultant.
+
 **Links**: 
 - Professional Skills Matrix: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/skills_matrix.pdf)
 - SWOT Analysis: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/swot_analysis.pdf)
