@@ -55,3 +55,9 @@ This section contains content created through Module 5: Software Engineering Pro
 
 This section contains content created through Module 6: Secure Software Development.
 [Click here to access the placeholder](./ssd.html).
+
+
+# Module 7: Research Methods and Professional Practice
+
+This section contains content created through Module 7: Research Methods and Professional Practice.
+[Click here to access the placeholder](./rmpp.html).
