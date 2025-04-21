@@ -20,6 +20,8 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 ## Units
 #### Unit 1
 **Introduction to Research Methods. The Scientific Investigation and Ethics in Computing**
+This module immediately started with the necessary ethical, regulatory and societal impact considerations when delivering technological solutions. \
+The essay on generative AI and ethics was an eye-opening exercise on understanding the global impact of this technology.
 
 **Artefacts produced:** 
 - Initial Post for Collaborative Discussion 1 - Codes of Ethics and Professional Conduct: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_1/collab_disc_1_initial_post.pdf)
@@ -28,6 +30,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Unit 2
 **Research Questions, the Literature Review and the Research Proposal**
+This unit, including the prescribed reading, prepared me for the commencement of my literature review summative, whilst the collaborative discussions were ongoing.
 
 **Artefacts produced:** 
 - First peer response in Collaborative Discussion 1: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_2/collab_disc_1_peer_response_1.pdf)  
@@ -37,6 +40,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Unit 3
 **Methodology and Research Methods**
+Research methods, a key component of this unit, started off the assessment of the appropriate methodology for my research topics, both as part of the module summatives, and the thesis.
 
 **Artefacts produced:** 
 - Summary post for Collaborative Discussion 1: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_3/collab_disc_1_summary_post.pdf)  
@@ -45,6 +49,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Unit 4
 **Case Studies, Focus Groups and Observations**
+This unit was less relevant for the topics I am considering for my thesis, however, it was highly beneficial to work through the provided case study on data privacy as it touches upon data regulations and ethical practices.
 
 **Artefacts produced:** 
 - Outline for literature review for formative feedback: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_4/lit_review_outline_for_feedback.pdf)  
@@ -53,6 +58,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Unit 5
 **Interviews, Survey Methods, and Questionnaire Design**
+The reflective component, alongside the reading of this unit was a fascinating insight into highly unethical practices, especially given how technological advancements have increased the ease in which interviews and surveys can be conducted.
 
 **Artefacts produced:**
 - Reflection on a Case Study on Inappropriate Use of Surveys: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_5/eportfolio_activity_surveys_reflection.pdf) \
@@ -60,12 +66,14 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Unit 6
 **Quantitative Methods - Descriptive and Inferential Statistics**
+This unit prepared me for the statistical worksheet submissions.
 
 **Artefacts produced:** 
 - No artefacts produced in this Unit, apart from Literature Review submission for summative assessment.
 
 #### Unit 7
 **Inferential Statistics and Hypothesis Testing**
+A detailed reflection on the experience of completing the statistical worksheets is below under Unit 9.
 
 **Artefacts produced:**
 - Summary Measures exercise answers: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_7/Summary_Measures_Hypothesis_Testing_statistical_worksheets/Unit_7_Ex6_Summary_Measures_all_exercises_answers.pdf)
@@ -76,6 +84,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Unit 8
 **Data Analysis and Visualisation**
+A detailed reflection on the experience of completing the statistical worksheets is below under Unit 9.
 
 **Artefacts produced:**
 - First peer response in Collaborative Discussion 2 - Case Study: Accuracy of information: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_8/collab_disc_2_peer_response_1.pdf)  
@@ -85,6 +94,7 @@ The following GitHub repository contains all module artefacts: [Link](https://gi
 
 #### Unit 9
 **Validity and Generalisability in Research**
+A detailed reflection on the experience of completing the statistical worksheets is below.
 
 **Artefacts produced:** 
 - Summary Post for Collaborative Discussion 2 - Case Study: Accuracy of information: [Link](https://github.com/andaziemele/rmpp_module/tree/main/Unit_9/collab_disc_2_summary_post.pdf)
@@ -107,6 +117,7 @@ While the exercises reinforced foundational concepts in statistics and data visu
 
 #### Unit 10
 **Research Writing**
+Alongside research proposal presentation submission, this unit summed up the necessary research writing skills in preparation for the thesis, and a brief overview on how to get research published.
 
 **Artefacts produced:**
 - Compulsory worksheets submitted with acknowledgement received: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_10/worksheet_submission.pdf)
@@ -115,6 +126,7 @@ While the exercises reinforced foundational concepts in statistics and data visu
 
 #### Unit 11
 **Going Forward: Professional Development and Your e-Portfolio**
+A detailed reflection on the SWOT analysis, skills matrix and personal development plan in context of my professional career is provided towards the end of this page.
 
 **Artefacts produced:** 
 - Professional Skills Matrix: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_11/skills_matrix.pdf)
@@ -124,6 +136,7 @@ While the exercises reinforced foundational concepts in statistics and data visu
 
 #### Unit 12
 **Project Management and Managing Risk**
+The unit topic, although covered in multiple other modules such as Software Engineering Project Management and Secure Software Development, is a useful reminder in the context of the thesis, which in itself can be viewed as a project with associated risks.
 
 **Artefacts produced:** 
 - Self Test Quiz: [Link](https://github.com/andaziemele/rmpp_module/blob/main/Unit_12/self_test_quiz.pdf)
@@ -165,7 +178,8 @@ As a data science consultant and a graduate student in MSc Computer science, my 
 - Software engineering project management including time estimation techniques
 - Software quality and testing, and 
 - Penetration testing \
-... amongst other skills. These skills have enabled me to contribute effectively to client projects, ensuring that solutions are technically sound and secure. \
+
+These skills, amongst multiple others (as provided in the skills matrix) have enabled me to contribute effectively to client projects, ensuring that solutions are technically sound and secure. \
 However, my growing knowledge of research methods and ethics will support my ability to approach new problems systematically and responsibly. \
 Based on the SWOT analysis and action plan, I identified areas for improvement, particularly in advanced statistics, machine learning, and ethical data practices. \
 The above would prepare me for both my final thesis to conclude the programme, and also future-proofing my skills given rapid developments in data and AI. \
